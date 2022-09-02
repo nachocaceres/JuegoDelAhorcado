@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #eeeded;
+}
+
+header{
+    padding: 0;
+}
+
+.logo{
+    padding: 5px;
+    height: 150px;
+}
+
+.redes-a{
+    color: #545454
+}
+.redes-a:hover{
+    color: #a6a6a6
+}
+
+.botones-i{
+    text-align: center;
+    margin-top: 12%;
+}
+.ocultar{
+    display: none;
+}
+
+.boton1, .boton2{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 30px 10px 30px 10px;
+    border:none;
+    font-size: 2rem;
+    box-shadow: 5px 5px 5px #545454;
+}
+
+.boton1{
+    background-color: #a6a6a6;
+    border: #a6a6a6;
+}
+
+.boton2{
+    color: #ffff;
+    background-color: #545454;
+}
+
+.boton1:hover{
+    background-color: #545454;
+    color: #ffff;
+}
+.boton2:hover{
+    background-color: #a6a6a6;
+    color: black;
+}
